@@ -1,8 +1,22 @@
-/**
- * 19.02.2018
- * eun1310434@naver.com
- * https://blog.naver.com/eun1310434
- */
+/*=====================================================================
+□ INFORMATION
+  ○ Data : 28.05.2018
+  ○ Mail : eun1310434@naver.com
+  ○ Blog : https://blog.naver.com/eun1310434
+  ○ Reference : Do it android app Programming
+
+□ FUNCTION
+  ○ XML을 활용한 Linear Layout Setting - BaseLine
+
+□ STUDY
+  ○ Relative Layout
+     - RelativeLayout is a view group that displays child views in relative positions.
+       The position of each view can be specified as relative to sibling elements
+       (such as to the left-of or below another view) or
+       in positions relative to the parent RelativeLayout area
+       (such as aligned to the bottom, left or center).
+=====================================================================*/
+
 
 package com.eun1310434.relativelayout;
 
