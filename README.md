@@ -9,6 +9,7 @@ The position of each view can be specified as relative to sibling elements
 in positions relative to the parent RelativeLayout area
 (such as aligned to the bottom, left or center).
 
+
 ScreenShots
 -----------
 <img width="200" src="https://user-images.githubusercontent.com/32612534/40605445-b658089e-6262-11e8-834d-6183cf540ad5.png">
